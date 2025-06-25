@@ -1,4 +1,4 @@
-# 🧠💻 C Projects – My First Steps in Programming
+# C Projects – My First Steps in Programming
 
 These are the first C projects I developed during my **first year at the Department of Electrical and Computer Engineering, Democritus University of Thrace**.  
 Each of these small terminal-based programs helped me understand the **fundamentals of programming**, including logic building, structured design, data handling, and memory operations.
