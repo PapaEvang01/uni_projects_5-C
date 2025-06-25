@@ -88,6 +88,6 @@ A feature-rich to-do list program with task management and filtering features �
 
 ## 👨‍💻 Author
 
-**Vaggelis Papaioannou**  
+**Evageloss Papaioannou**  
 Department of Electrical & Computer Engineering  
 Democritus University of Thrace
