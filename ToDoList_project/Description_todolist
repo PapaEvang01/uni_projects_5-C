@@ -1,0 +1,45 @@
+✅ To-Do List – Terminal C Project
+This was probably the most ambitious of the three — a full-featured terminal-based task manager written entirely in C.
+I wanted it to feel like a real productivity tool, even though it ran inside the command line. And I think I pulled it off!
+
+
+It lets you:
+
+📝 Add tasks with description, deadline, priority, and category
+
+🗂️ Categorize tasks (Work, Study, Personal, Other)
+
+🗓️ Sort automatically by deadline (earliest first)
+
+✅ Mark tasks as completed
+
+🔎 View tasks filtered by category
+
+💾 Save/load tasks from a binary file (tasks.dat)
+
+🎨 Enjoy color-coded output for easy readability (priority, category, status)
+
+The interface is clean, responsive, and functional — using just stdio.h, time.h, and a bit of Windows API for colored output.
+
+
+📌 What I learned
+This project helped me dive deeper into:
+
+Real-time date comparisons and deadline calculations
+
+Sorting algorithms (qsort)
+
+Structs and dynamic input handling
+
+Designing user-friendly CLI menus with a touch of style
+
+
+🛠️ Developed entirely in Code::Blocks on Windows.
+
+
+
+
+
+
+
+

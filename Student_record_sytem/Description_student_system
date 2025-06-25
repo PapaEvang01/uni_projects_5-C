@@ -1,0 +1,32 @@
+🗂️ Student Record Management System – C Project
+It’s a small terminal-based tool I made in C to manage basic student records — sort of like a mini database system but all local.
+
+You can:
+
+➕ Add new students (first name, last name, and roll number like AM12345)
+
+🔍 View all student records in a neat table
+
+🧭 Search by roll number or surname
+
+❌ Delete a student by roll number
+
+📤 Export all data to a .csv file for Excel or Google Sheets
+
+💾 All data is saved in a local binary file (students.dat), so everything stays intact even after you close the program.
+
+
+📌 What I learned
+This was my hands-on intro to:
+
+File I/O (saving and loading structs to/from files)
+
+Working with arrays of structs in C
+
+Implementing a basic CRUD (Create, Read, Update, Delete) system
+
+It might look small, but it taught me how real software keeps data persistent — and how the terminal can still be a powerful tool when you make it interactive.
+
+
+🛠️ Built using Code::Blocks on Windows with gcc.
+

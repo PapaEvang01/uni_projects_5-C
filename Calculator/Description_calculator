@@ -1,0 +1,28 @@
+🧮 Terminal Calculator in C
+This was one of the very first C projects I built during my early university days — when I was still figuring out how code and logic worked together.
+I wanted to go beyond basic printf programs and challenge myself to make something interactive, useful, and a bit brainy. So I built this command-line calculator.
+
+It’s not just a simple calculator — it supports full math expressions like:
+
+(3 + 5) * 2 - sqrt(16) + sin(1.57)
+and even has special functions like:
+
+sqrt, abs, log, ln, exp, fact, sin, cos, tan
+
+Plus: a special keyword Ans that stores your last result
+
+📚 How it works
+Behind the scenes, the calculator uses a real parsing strategy:
+
+Tokenization — breaks your input into parts
+
+Shunting Yard Algorithm — rearranges everything into postfix (RPN)
+
+Evaluation — processes that with a stack to get the final result
+
+✨ Why it mattered
+This project taught me the foundations of parsing and how calculators actually work.
+It was also the first time I saw how algorithms like Shunting Yard could be implemented in C from scratch.
+
+🛠️ I compiled and tested it on Windows using Code::Blocks and gcc.
+It’s completely terminal-based, lightweight, and runs in real-time.
